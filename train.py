@@ -1,7 +1,7 @@
 """Train a DQN agent to play Atlantis.
 
 Run it like this, changing only the settings you are testing:
-    python train.py --gamma 0.95 --output-dir models/YourName/exp01_gamma_0.95
+    python train.py --gamma 0.95 --output-dir models/my_run
 
 Each run saves these files in --output-dir:
     dqn_model.pth      the trained network

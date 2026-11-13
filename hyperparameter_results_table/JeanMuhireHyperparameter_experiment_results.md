@@ -41,7 +41,7 @@ python train.py --gamma 0.95 --batch-size 64 --output-dir models/JeanMuhire/exp0
 
 ## My best run in detail (experiment 9)
 
-The assignment asks for episode length, number of steps and rewards for the best experiment. These come from `models/JeanMuhire/exp09_gamma_0.95_batch_64/training_log.csv`.
+Episode length, number of steps and rewards for my best run. These come from `models/JeanMuhire/exp09_gamma_0.95_batch_64/training_log.csv`.
 
 | Measure | Value |
 |---|---|
